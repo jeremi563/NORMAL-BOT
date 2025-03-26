@@ -55,19 +55,19 @@
 "ANTICALL":
     {
       "description":"Enter yes for your bot to auto reject calls",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
 "CHATBOT":
     {
       "description":"Enter yes for your bot to auto reply message when offline",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
 "AUTO_BIO":
     {
       "description":"Enter yes for your bot to auto bio or no to decline",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 
@@ -98,7 +98,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BWM-XMD",
+      "value":"Marine-TECH",
       "required":false
 
     } ,
@@ -142,7 +142,7 @@
   },
     "SESSION_ID":{
     "description":"put your session ID , the code you received from from ibrahim adams site",   
-      "value":"",
+      "value":"BWM-XMD;;;H4sIAAAAAAAAA5VV25KqOBT9l7xqHwEBxaquGqRRERAR2tvUeQgQICIXkyBql/8+RV+q+2FOT89bKiRrr6y19uYFFCWmyERXMHoBFcFnyFC7ZNcKgREY13GMCOiCCDIIRgCqzrZaX4KxdKRQny3Ek1QxYiEnHpr8OR8gfxALWUHNrHkE9y6o6uCIw28An+JsDqVTkWrkyd0o14Ls5UXhnWYdf70vOg2rxSYIkZFm4SO4t4gQE1wkepWiHBF4NNF1CTH5GX3VUXY4Usl+vqwK63Sw6HF70bMcCe7S21wVjUVWWmrD41b9Gf1rItDTVXO2QuILMjfdTcznWxPzZ2fj9NFOHKeHp8zqr9LZO32KkwJFRoQKhtn1x7qry0zd3AyllDLS9GxpcTaL7WFri8o416YTXVIYjNSyrz4bPyMuexMXGcMLk3tGfljtU1j2wq3C1LHtbdLpPLDpsm6gcFqpX4kvyUdWsv+ju7gIFB7n2ngunFCZLdaTIT8JnKT3dNuPBye4wAtEBoPZ/Gj/jL4bBJvIVOdO0EyIKzhK0tO3WL+ENp+bMAjt3bNN5duMqfonfchq8h3L5TRYXiU17Bid7bkqD3lezmeeNaFhpakF862QTf1zNaw9q+o8LYeOJsyCw7qBte73PeQTFAfna7/mA61xpWCcKYuOpj6+vihDVyMCI/7eBQQlmDICGS6Ldk8Q5C6A0dlDIUHsVV5gcHJtOuKicM0ia0R5P0vsTToXc4P3Vy4SxoEWmZ5JiKM/gi6oSBkiSlE0w5SV5GojSmGCKBj9/bsLCnRhb8a15fp8F8SYUPZc1NWxhNGHqx8fYRiWdcG8axFq7QIRMOI+txFjuEhoq2NdQBKm+Iy0FDIKRjE8UnTvggidcYhaPKCtapkzVjtv4pxOeS3UcGE8uC3ltCzejkRDPuKEMHgQuJB7EMOB9DCM+f6DAsVwGMmRGCsy6AL83jPtnT9ayM2c/o40nZtonck2UeY7RfUSR7vN3Fcb3rRHBEVgxEiNuiCAYVZXfpmh4hvck2xoxlK+rLTM820j3zaX27632Ccu/YL75ikYvXzOKa2MWrzBmt/53nwBuiB/jSBuXy5I4qDPC6LAy8poIP5FfzWtkLCqfhWItbjvorc3IsQgPtJWU6c2C0mc6nauHshwOlV3iaolKvg06SPtb2lyMole4myCzSnNymbrE4S5ca9f3TyJJnDuhvHl0k7ifvn4LyBgBFLpuMvMk63ruX9Rh8SIZ72heVieFqGjU1W1HGs5GRTWQj91bpHtWJdV42qQYzt9o8jGVIxP3mV6CIzlhF0Hq9XTMePV5rGt9haWr8VkVxuzZqynCoryjZGaGzTV6DNe7xVLn6Ra6nN1eJDJfA6bHeffnq3i0FnjRU73iAusOBfl7FaGed7PzVhah8tzFqnuWx++zoHj+/zFrx3y8h6tGKPXcVbA1qL/Mudryrl79wvG+4D8Q5LGfuUE9lYa73BK5qY94eR+ydRYkUOuDowpfp7NhqHbl7RIBvf77y6ojpDFJcnb328RkRJHoAuOkDL1s1F9nCPKYF6BET8QBUUWBgPx/g8zpqmM3gcAAA==",
      "required":true
   },
     "WARN_COUNT":
